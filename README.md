@@ -1,4 +1,4 @@
-# Sorted Linked List
+# Sorted Stack List
 This project is a Java implementation of a Sorted stack List. It automatically inserts 
 elements in sorted order and supports basic operations like insert, remove, and print. 
 To use, clone the repository, compile `SortedLinkedList.java`, and run your Java program. 
